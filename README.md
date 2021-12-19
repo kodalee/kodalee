@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Koda
+- 👀 I’m interested in JavaScript, HTML, CSS, Node, and a bunch of other languages
+- 📫 How to reach me, my e-mail is me@koda.life 
