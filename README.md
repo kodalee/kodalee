@@ -1,7 +1,9 @@
 <!-- **kodalee/kodalee** is a ✨ _special_ ✨ (wow!) repository: its `README.md` (this file) appears on your GitHub profile! -->
 
 <h1>I'm Koda. Welcome to my page! 👋</h1>
+<h3>I'm a Professional Idiot</h3>
 <div>
+
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/kodalee?style=social">
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/kodalee4?style=social">
 
