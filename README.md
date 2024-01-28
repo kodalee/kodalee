@@ -26,6 +26,6 @@
 <h2>How to contact me. 📮</h2>
 <p>If you'd like to get in touch with me, there are multiple ways to do so! My DMs are open on multiple platforms, including <a href="https://twitter.com/kodalee4"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/kodalee4?label=Twitter%20at%20%40kodalee4&style=social"></a> and Discord. Feel free to shoot me a message anytime - I love connecting with new people and chatting about all things tech!
 
-In addition to social media, you can also reach me via email at me+inquiries@koda.life. Whether you have a question, a project proposal, or just want to say hi, my inbox is always open. I do my best to respond to all messages in a timely manner, so don't hesitate to reach out!
+In addition to social media, you can also reach me via email at hey@kodalee.dev. Whether you have a question, a project proposal, or just want to say hi, my inbox is always open. I do my best to respond to all messages in a timely manner, so don't hesitate to reach out!
 
 Looking forward to hearing from you soon!</p>
