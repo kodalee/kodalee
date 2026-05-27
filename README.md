@@ -5,7 +5,8 @@ I'm a 21-year-old **Developer and Infrastructure Manager** working with **Reborn
 **My Toolbox**
 <br>
 [![Tools](https://skillicons.dev/icons?i=html,css,less,scss,tailwind,js,ts,react,vue,electron,vite,idea,java,kotlin,cpp,cs,azure,googlecloud,php,symfony,npm,visualstudio,vscode,git,github,githubactions,linux&perline=9)](https://skillicons.dev)
-<i>I used <a href="https://skillicons.dev/">skillicons.dev</a> <sup><a href="https://github.com/tandpfun/skill-icons">github repo</a></sup> to show you my toolbox.</i>
+<br>
+<i>I used <a href="https://skillicons.dev/">skillicons.dev</a> <sup><a href="https://github.com/tandpfun/skill-icons">GH</a></sup> to show you my toolbox.</i>
 
 I'm also fairly experienced with **Microsoft 365 / Azure AD / Entra**
 
