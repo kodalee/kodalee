@@ -1,24 +1,10 @@
 # Hi, I'm Koda 👋
 
-I'm a 21-year-old developer who still has no idea what I want to do in life, but writing code seems to be working so far.
+I'm a 21-year-old **Developer and Infrastructure Manager** working with **Reborn Gaming**.
 
-Currently I'm a **Developer / Infrastructure Manager** for **Reborn Gaming**, a Garry's Mod community primarily centered around a **Jedi vs Sith** server. Most of my time is spent building tools, infrastructure, and fixing problems that probably shouldn't have existed in the first place.
-
-## What I Work With
-
-I'm primarily a **web developer**, but I'm slowly trying to escape the comfort of high-level languages.
-
-**Languages**
-- TypeScript
-- PHP
-- GLua
-- Go (learning)
-- C++ (learning)
-- Rust (eventually)
-
-**Frameworks**
-- Vue — https://vuejs.org  
-- Symfony — https://symfony.com  
+**My Toolbox**
+[![Tools](https://skillicons.dev/icons?i=html,css,less,scss,tailwind,js,ts,react,vue,electron,vite,idea,java,kotlin,cpp,cs,azure,googlecloud,php,symfony,npm,visualstudio,vscode,git,github,githubactions,linux&perline=9)](https://skillicons.dev)
+<i>I used <a href="https://skillicons.dev/">skillicons.dev</a> <sup><a href="https://github.com/tandpfun/skill-icons">github repo</a></sup> to show you my toolbox.</i>
 
 I'm also fairly experienced with **Microsoft 365 / Azure AD / Entra**
 
