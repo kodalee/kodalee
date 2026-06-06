@@ -12,9 +12,9 @@ I'm a 21-year-old **Developer and Infrastructure Manager** working with **Reborn
 
 I'm also fairly experienced with **Microsoft 365 / Azure AD / Entra**
 
-## Projects
+## Active Projects
 
-### Tarin
+### Tarin (example: https://shop.reborngaming.net)
 **PHP, TypeScript, GLua — Symfony + React**
 
 An ecommerce system built specifically for **Garry's Mod communities** that allows players to donate or purchase perks and automatically receive them on the game server.
@@ -23,21 +23,11 @@ It's **stable, in production, and still actively developed**.
 
 ---
 
-### Baqd
-**Go**
+### Baqd (Confidential)
+**TypeScript**
 
 A backup system designed for **routine offsite backups**.
 
-It's currently **in active development**, which is a nice way of saying I'm still figuring things out.
-
-## Goals
-
-- Get better at **lower level programming**
-- Build more **infrastructure and backend systems**
-- Eventually understand **C++ compile errors**
-
 ---
 
-If you're here, you probably found one of my projects.
-
-Sorry in advance.
+Aside from that, this GitHub pretty much contains my history with coding. Feel free to browse.
